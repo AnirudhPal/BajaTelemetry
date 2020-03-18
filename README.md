@@ -16,8 +16,14 @@ This step assumes that something is broken and you want to setup from scratch. Y
 
 ### Download OS and Flash
 
-Follow the instructions in the installation guide and install the Raspbian Lite OS on the SD card.
+Follow the instructions in the installation guide and install the Raspbian Lite OS on the SD card. The OS image can be found in the link below.
 
 [Installation Guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
 [OS Image](https://www.raspberrypi.org/downloads/raspbian/)
+
+### Setup Raspberry Pi, Laptop and Phone
+
+* Set phone to enable hotpsot. 
+* Have a fixed password. 
+* Connect the laptop to that hotspot. **Minimize Data Usage**. 
