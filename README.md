@@ -40,6 +40,6 @@ Follow the remaining instructions to write to the SD card.
    * Login using user id & password. 
    * Use terminal to connect to hotspot using instructions [here](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md).
    * To check internet connection type: 
-   ' ping google.com '
+   `ping google.com`
    * If the packets lost is less than 100% this means that you are connected to the wifi
    
