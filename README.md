@@ -45,4 +45,6 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 * Enable SSH on Pi
 
 ![](https://github.com/AnirudhPal/BajaTelemetry/blob/master/Images/1.PNG?raw=true)
-   
+* Similarly enable I2C on Pi
+
+### SSH 
