@@ -47,4 +47,12 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 ![](https://github.com/AnirudhPal/BajaTelemetry/blob/master/Images/1.PNG?raw=true)
 * Similarly enable I2C on Pi
 
-### SSH 
+### SSH into the Pi
+
+* Open PowerShell(Windows) or Terminal(Mac/Linux) on laptop.
+* On the Pi enter. `hostname -I`
+* Take note of the IP. The IP stays the same till the Pi is connected and doesn't reboot. Usually when it reboots, it ends up with the same IP once it connects.
+* On the laptor enter. `ssh pi@<IP>`
+* Say yes to whatever it asks and enter password.
+
+
