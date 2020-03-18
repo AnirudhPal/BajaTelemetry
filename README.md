@@ -14,4 +14,9 @@ This step assumes that something is broken and you want to setup from scratch. Y
 * Mouse
 * Monitor with HDMI
 
+### Download OS and Flash
 
+Follow the instructions in the installation guide and install the Raspbian Lite OS on the SD card.
+
+[Installation Guide](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
+[OS Image](https://www.raspberrypi.org/downloads/raspbian/)
