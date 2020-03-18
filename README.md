@@ -32,4 +32,4 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
    * Connect power.
    * Wait for OS to boot.
    * Login using user id & password. 
-   * 
+   * Use terminal to connect to hotspot using instructions [here](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md).
