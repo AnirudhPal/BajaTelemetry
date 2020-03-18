@@ -54,5 +54,5 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 * Take note of the IP. The IP stays the same till the Pi is connected and doesn't reboot. Usually when it reboots, it ends up with the same IP once it connects.
 * On the laptor enter. `ssh pi@<IP>`
 * Say yes to whatever it asks and enter password.
-
-
+* Setup is done, now you dont need the monitor or keyboard.
+* Also if the Pi is rebooted, it should connect auto-magically and yo should be able to SSh once it connects to the hotspot. Make sure that the laptop is also connected to the hotspot.
