@@ -42,6 +42,7 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
    * To check internet connection type: 
    `ping google.com`
    * If the packets lost is less than 100% this means that you are connected to the wifi.
-* Enable SSH
+* Enable SSH on Pi
+
 ![](https://github.com/AnirudhPal/BajaTelemetry/blob/master/Images/1.PNG?raw=true)
    
