@@ -27,3 +27,5 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 * Set phone to enable hotpsot. 
 * Have a fixed password. 
 * Connect the laptop to that hotspot. **Minimize Data Usage**. 
+* Connect the Pi to that hotpsot. The Pi should auto connect after boot once this is done.
+    * Hello
