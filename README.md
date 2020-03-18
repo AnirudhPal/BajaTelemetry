@@ -11,7 +11,6 @@ This step assumes that something is broken and you want to setup from scratch. Y
 * SD Card
 * Laptop with SD Card Reader
 * Keyboard
-* Mouse
 * Monitor with HDMI
 
 ### Download OS and Flash
@@ -28,4 +27,9 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 * Have a fixed password. 
 * Connect the laptop to that hotspot. **Minimize Data Usage**. 
 * Connect the Pi to that hotpsot. The Pi should auto connect after boot once this is done.
-    * Hello
+   * Put SD Card into the Pi.
+   * Connect monitor & keyboard to the Pi.
+   * Connect power.
+   * Wait for OS to boot.
+   * Login using user id & password. 
+   * 
