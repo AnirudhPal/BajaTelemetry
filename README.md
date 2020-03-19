@@ -78,3 +78,7 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 |A4(SDA)|||||SDA(Yellow)||
 |A5(SCL)|||||SCL(Blue)||
 |USB Mini||||||USB A|
+
+### Pi Code Upload
+
+* Git Clone Repository.
