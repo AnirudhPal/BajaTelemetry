@@ -69,3 +69,11 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 
 |Arduino|Pot 1|Pot 2|Pot 3|Pot 4|ITG|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|5V|Red|Red|Red|Red|Red|
+|GND|Black|Black|Black|Black|Black|
+|A0|Signal|||||
+|A1||Signal||||
+|A2|||Signal|||
+|A3||||Signal||
+|A4(SDA)|||||SDA(Yellow)|
+|A5(SCL)|||||SCL(Blue)|
