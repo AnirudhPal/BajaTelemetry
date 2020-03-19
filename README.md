@@ -12,6 +12,7 @@ This step assumes that something is broken and you want to setup from scratch. Y
 * Laptop with SD Card Reader
 * Keyboard
 * Monitor with HDMI
+* Arduino with Cable
 
 ### Download OS and Flash
 
@@ -56,3 +57,15 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 * Say yes to whatever it asks and enter password.
 * Setup is done, now you dont need the monitor or keyboard.
 * Also if the Pi is rebooted, it should connect auto-magically and you should be able to SSh once it connects to the hotspot. Make sure that the laptop is also connected to the hotspot.
+
+### Arduino Code Upload
+
+* Use Arduino IDE in a laptop to upload Firmware/RealTimeController.ino.
+* You need to have MPU6050 library from ElectronicCats in Arduino IDE.
+* Library can be installed by going to Tools -> Manage Library and then search for 'MPU6050'. Install the library.
+* Upload the code to the Arduino and test on laptop.
+
+### Arduino Wiring Diagram
+
+|Arduino|Pot 1|Pot 2|Pot 3|Pot 4|ITG|
+|:-:|:-:|:-:|:-:|:-:|:-:|
