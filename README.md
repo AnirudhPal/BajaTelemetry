@@ -79,6 +79,27 @@ Follow the instructions in the installation guide and install the Raspbian Lite 
 |A5(SCL)|||||SCL(Blue)||
 |USB Mini||||||USB A|
 
-### Pi Code Upload
+### Pi Code Upload/Download
 
-* Git Clone Repository.
+* Git clone repository if fresh install of OS. `git clone <Repo Link>`
+* Enter the folder. `cd BajaTelemetry`
+* Get latest changes. `git pull`
+* Send changes. 
+```
+git add .
+git commit -m "<Message>"
+git push
+```
+
+### Run Code
+
+* Go to home. `cd ~`
+* Go to Python folder. `cd BajaTelemetry/Python/`
+* Run code. `python ArdToCSV.py`
+* Exit code press CTRL + C.
+
+### To Remove Data Files
+
+* Go to home. `cd ~`
+* Go to Python folder. `cd BajaTelemetry/Python/`
+* Remove files. `rm *.csv`
